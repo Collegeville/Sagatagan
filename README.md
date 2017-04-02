@@ -1,2 +1,2 @@
 # Sagatagan
-The science of science: R&amp;D to improve scientific R&amp;D.
+The science of computational science: R&amp;D to improve scientific computing R&amp;D.
