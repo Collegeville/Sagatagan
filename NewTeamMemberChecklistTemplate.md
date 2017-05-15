@@ -12,4 +12,5 @@ The text below can be copied and pasted into a new GitHub issue called `Firstnam
 - [ ] Take the Udacity course Software Development Proces at https://classroom.udacity.com/courses/ud805.
 - [ ] Take the Udacity course How to Use Git and GitHub at https://classroom.udacity.com/courses/ud775.
 - [ ] Take the online courses in C++: http://www.cprogramming.com/tutorial/c++-tutorial.html and http://www.cplusplus.com/doc/tutorial
+- [ ] Redo CS200 labs in C++
 ```
