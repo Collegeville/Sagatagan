@@ -6,7 +6,7 @@ The text below can be copied and pasted into a new GitHub issue called `Firstnam
 - [ ] Create a GitHub account (if you don't have one) and ask Dr Heroux to add you to the Collegeville organization.
 - [ ] Become a member of all appropriate repositories in the Collegeville organization.
 - [ ] Identify any new repos that should be created, especially if your research topic is new.
-- [ ] Lear LaTeX using the https://github.com/Collegeville/Scribe repository.
+- [ ] Learn LaTeX using the https://github.com/Collegeville/Scribe repository.
 - [ ] At least one of your repos will be a LaTeX collection that will contain your annotated bibliography and the starting point for at least one technical report, which will be an ongoing record of your progress.
 - [ ] Sign up for a Udacity online learning account at https://www.udacity.com, if you don't have one already.  You will use Udacity for some of your introductory training.
 - [ ] Take the Udacity course Software Development Proces at https://classroom.udacity.com/courses/ud805.
